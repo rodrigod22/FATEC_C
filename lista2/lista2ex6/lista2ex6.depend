@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550757686 source:c:\users\rodri\desktop\c\fatec_exercicios_c\exercicios\lista2\lista2ex6\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558387190 source:f:\area de trabalho\c_\fatec_exercicios_c\exercicios\desafio\desafio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
